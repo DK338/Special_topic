@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_tone">
+        <item>C</item>
+        <item>G</item>
+        <item>D</item>
+        <item>A</item>
+        <item>E</item>
+        <item>B</item>
+        <item>F#</item>
+        <item>Db</item>
+        <item>Ab</item>
+        <item>Eb</item>
+        <item>Bb</item>
+        <item>F</item>
+    </string-array>
+</resources>
